@@ -46,20 +46,20 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "elouan.grimm@gmail.com"
-  github: elouangrimm
   discord: elouangrimm
+  instagram: elouangrimm
+  github: elouangrimm
   patreon: DeanAttali
   youtube: "@elouangrimm"
   whatsapp: 19712661720
-  reddit: elouan
-  instagram: elouangrimm
+  email: "elouan.grimm@gmail.com"
+  reddit: elouangrimm
   spotify: elouangrimm
   itchio: epimetheusgames
   rss: true
 
 # If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
+# The URL for the feed will be https://elouangrimm.github.io/feed.xml
 rss-description: Elouan Grimm's RSS I guess...
 
 ###########################
@@ -109,17 +109,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#03141d"
+page-col: "##3d3d3d"
 text-col: "#ffffff"
-link-col: "#87c8f5"
-hover-col: "#4db6ff"
+link-col: "#5f8c3c"
+hover-col: "#99e060"
 navbar-col: "#7db84f"
 navbar-text-col: "#c4c4c4"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "#7db84f"
 footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-link-col: "#5f8c3c"
+footer-hover-col: "#99e060"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
