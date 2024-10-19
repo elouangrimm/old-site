@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Just some stuff about me I guess.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Hey, I'm Elouan Grimm** and I love messing around with tech. I helped [Epimetheus Games](https://epimetheus.games/) out with their first two games, *EyeSore* and *Project Prometheus* (you can check em out on [itch](https://epimetheusgamesogpc.itch.io/)). I live in Cape Town and speak French and English fluently. idk what else to add so thats it lol.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+#### DM me on Discord at @elouangrimm
+#### Check out some things I did on my [gh](https://github.com/elouangrimm/).
